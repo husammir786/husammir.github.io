@@ -1,3 +1,3 @@
 # Data Portfolio 
 
-This is my portfolio website   
+This is my portfolio website for analytics, data and engineering projects.   
